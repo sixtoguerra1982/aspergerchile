@@ -13,6 +13,9 @@ body{
 .centrar-texto{
 	text-align: center;
 }
+.derecha-texto{
+	text-align: left;
+}
 .borde-menu{
 	border: 1px solid #5699FF;
 	border-radius: 10px 10px 10px 10px;
@@ -28,6 +31,3 @@ body{
 .azul{
 	color: #562BFF;
 }
-header h1{
-			text-align: center;
-		}
