@@ -22,3 +22,12 @@ body{
   background-repeat: no-repeat;
   max-width: 300px;
 }
+.activo{
+	background-color: white;
+}
+.azul{
+	color: #562BFF;
+}
+header h1{
+			text-align: center;
+		}
