@@ -1,0 +1,24 @@
+body{
+	margin-top: 0;
+}
+.tamano_img_menu{
+	width: 100px;
+	height: 100px;
+}
+.fijo{
+	position: fixed;
+	left: 35%;
+	z-index: 1;
+}
+.centrar-texto{
+	text-align: center;
+}
+.borde-menu{
+	border: 1px solid #5699FF;
+	border-radius: 10px 10px 10px 10px;
+}
+.donar{
+  background-image: url("images/logo2.jpg");
+  background-repeat: no-repeat;
+  max-width: 300px;
+}
