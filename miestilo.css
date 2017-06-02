@@ -31,3 +31,7 @@ body{
 .azul{
 	color: #562BFF;
 }
+.misnoticias{
+	background-color: transparent;
+	border: 2px solid black;
+}
